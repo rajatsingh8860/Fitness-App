@@ -6,4 +6,4 @@ Here you selects your exercise type and app will suggest you list of exercises f
 
 The app also has a timer and audio which keeps track of exercise duration and also pause for constant duration of 40 sec between every two successive exercises.
 
-![](assets/images/show1.jpeg {width=40px height=40px})
+<img src="assets/images/show1.jpeg">
